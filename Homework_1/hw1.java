@@ -1,4 +1,4 @@
-package Homeworks;
+package Homework_1;
 
 public class hw1 {
  // Программа для поиска потомка
